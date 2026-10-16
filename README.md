@@ -80,4 +80,5 @@ Em desenvolvimento.
 
 👨‍💻 Autor
 
-Desenvolvido como projeto acadêmico na área de Desenvolvimento de Sistemas.
+Gustavo Barreto
+
